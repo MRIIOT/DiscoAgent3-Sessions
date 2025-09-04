@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "738470295056416930-738470295056416934/Community Events and Activities.md",
+                "file": "738470295056416930-841346396639723553/Industrial Temperature Control Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Community Events and Activities"
+              "title": "Industrial Temperature Control Systems"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "738470295056416930-738470295056416934/Community Events and Activities.md",
+                "file": "738470295056416930-841346396639723553/Industrial Temperature Control Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Community Events and Activities"
+              "title": "Backlinks for Industrial Temperature Control Systems"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "738470295056416930-738470295056416934/Community Events and Activities.md",
+                "file": "738470295056416930-841346396639723553/Industrial Temperature Control Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Community Events and Activities"
+              "title": "Outgoing links from Industrial Temperature Control Systems"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "738470295056416930-738470295056416934/Community Events and Activities.md",
+                "file": "738470295056416930-841346396639723553/Industrial Temperature Control Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Community Events and Activities"
+              "title": "Outline of Industrial Temperature Control Systems"
             }
           }
         ]
@@ -171,7 +171,13 @@
   },
   "active": "9d9ea291d779b481",
   "lastOpenFiles": [
-    "738470295056416930-738470295056416934/Prove It Conference - Vendor Participation.md",
-    "738470295056416930-738470295056416934/Community Events and Activities.md"
+    "738470295056416930-841346396639723553/Corporate Project Management and Funding Evolution.md",
+    "738470295056416930-742458745031884921/SASE-Community-Resources.md",
+    "738470295056416930-742458296400740472/AI Agent Customer Problem Solving.md",
+    "738470295056416930-742458296400740472/AI-Agent-Customer-Collaboration.md",
+    "738470295056416930-742458296400740472/Learning-and-Work-Life-Balance.md",
+    "738470295056416930-740628284282503249/Manufacturing-Technology-Companies.md",
+    "738470295056416930-738470295056416934/Community Events and Activities.md",
+    "738470295056416930-738470295056416934/Prove It Conference - Vendor Participation.md"
   ]
 }
