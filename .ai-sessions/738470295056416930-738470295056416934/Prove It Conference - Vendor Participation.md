@@ -8,7 +8,14 @@
 
 ### Outstanding Questions
 - **Vendor application process**: How to get involved as a vendor
-- **Pricing structure**: Vendor pricing details not yet available or unclear
+
+### Available Information
+- **Pricing structure**: Vendor pricing information is now available
+
+### Vendor Coordination Process
+- **Team Contact**: Dedicated team available to discuss vendor options and opportunities
+- **Communication Method**: Direct message coordination to connect interested vendors with appropriate team members
+- **Facilitated Introductions**: Community members help facilitate connections between potential vendors and conference organizers
 
 ## Related Topics
 - [[Conference Events]] - General conference information
